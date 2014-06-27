@@ -7,3 +7,6 @@
 # 常见错误
 * [error: cast from ... to ... loses precision](cast-lose-precision.md)
 
+# 其它
+* [只做语法检查](syntax-only.md)
+
