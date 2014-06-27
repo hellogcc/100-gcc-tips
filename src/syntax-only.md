@@ -3,12 +3,12 @@
 ## 例子
 
 	$ cat foo.c
-	uion {
+	union u {
 	  char c;
 	  int i;
 	}
 	$ gcc -fsyntax-only foo.c
-	foo.c:1:6: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘{’ token
+	foo.c:4:1: error: expected identifier or ‘(’ at end of input
 
 ## 技巧
 
