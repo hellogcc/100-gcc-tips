@@ -22,7 +22,7 @@
 
 ## 技巧
 
-如上所示，使用“`gcc -dM -E - < /dev/null`”命令就可以显示出gcc预定义的宏信息。“`-dM`”生成预定义的宏信息，“`-E`”表示预处理操作完成后就停止，不再进行下面的操作。
+如上所示，使用“`gcc -dM -E - < /dev/null`”命令就可以显示出gcc预定义的宏信息。“`-dM`”生成预定义的宏信息，“`-E`”表示预处理操作完成后就停止，不再进行下面的操作。此外，也可以使用这个命令：“`echo | gcc -dM -E -`”。
 
 
 详情参见[gcc手册](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html#index-dM-908)
