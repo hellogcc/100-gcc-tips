@@ -38,7 +38,7 @@ collect2：
 这个跟使用`-v`所显示的内容差不多，区别在于使用`-###`是只打印，不实际执行具体的命令。手册里提到，它的一种用法，就是在脚本里使用这个选项，来获得gcc所调用的各个子命令行。
 
 
-详情参见[gcc手册](https://gcc.gnu.org/onlinedocs/gcc-4.3.0/gcc/Overall-Options.html#Overall-Options)
+详情参见[gcc手册](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html#Overall-Options)
 
 ## 贡献者
 

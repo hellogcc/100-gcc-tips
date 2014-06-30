@@ -58,7 +58,7 @@
 
 如果此时你使用`oprofile`来统计性能事件，那么获得的结果将不是以函数为单位了，而是以这些符号所划分的代码块为单位。
 
-详情参见[gcc手册](https://gcc.gnu.org/onlinedocs/gcc-4.3.0/gcc/Assembler-Options.html#Assembler-Options)和[as手册](https://sourceware.org/binutils/docs-2.24/as/L.html#L)
+详情参见[gcc手册](https://gcc.gnu.org/onlinedocs/gcc/Assembler-Options.html#Assembler-Options)和[as手册](https://sourceware.org/binutils/docs-2.24/as/L.html#L)
 
 ## 贡献者
 
