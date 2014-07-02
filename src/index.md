@@ -5,7 +5,10 @@
 * [打印优化级别的对应选项](print-level-options.md)
 * [打印彩色诊断信息](diagnostics-color.md)
 
-# 汇编程序
+# 预处理
+* [生成没有行号标记的预处理文件](inhibit-linemarkers.md)
+
+# 汇编
 * [生成有详细信息的汇编文件](verbose-asm.md)
 * [把选项传给汇编器](pass-options-to-assembler.md)
 
