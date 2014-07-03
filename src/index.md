@@ -27,4 +27,5 @@
 # 其它
 * [只做语法检查](syntax-only.md)
 * [保存临时文件](save-temps.md)
+* [打开警告信息](turn-on-warnings.md)
 
