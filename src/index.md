@@ -22,6 +22,7 @@
 
 # 常见错误
 * [error: cast from ... to ... loses precision](cast-lose-precision.md)
+* [all warnings being treated as errors](warnings-treated-as-errors.md)
 
 # 其它
 * [只做语法检查](syntax-only.md)
