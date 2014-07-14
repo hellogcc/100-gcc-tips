@@ -4,7 +4,7 @@
 * [打印优化级别的对应选项](print-level-options.md)
 * [打印彩色诊断信息](diagnostics-color.md)
 * [打印头文件搜索路径](print-header-search-dir.md)
-* [查看连接库的具体路径](print-file-name.md)
+* [打印连接库的具体路径](print-file-name.md)
 
 # 预处理
 * [生成没有行号标记的预处理文件](inhibit-linemarkers.md)
