@@ -3,6 +3,7 @@
 * [打印gcc执行的子命令](print-commands-only.md)
 * [打印优化级别的对应选项](print-level-options.md)
 * [打印彩色诊断信息](diagnostics-color.md)
+* [打印头文件搜索路径](print-header-search-dir.md)
 * [查看连接库的具体路径](print-file-name.md)
 
 # 预处理
