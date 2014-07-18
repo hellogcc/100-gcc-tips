@@ -17,6 +17,7 @@
 
 # 连接
 * [把选项传给连接器](pass-options-to-linker.md)
+* [设置动态连接器](set-dynamic-linker.md)
 
 # 函数属性
 * [禁止函数被优化掉](must-emit-function-code.md)
