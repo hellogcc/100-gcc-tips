@@ -1,4 +1,4 @@
-# 信息显示
+﻿# 信息显示
 * [打印gcc预定义的宏信息](print-predefined-macros.md)
 * [打印gcc执行的子命令](print-commands-only.md)
 * [打印优化级别的对应选项](print-level-options.md)
@@ -21,6 +21,7 @@
 
 # 函数属性
 * [禁止函数被优化掉](must-emit-function-code.md)
+* [强制函数inline](must-forceinline-function-code.md)
 
 # 常见错误
 * [error: cast from ... to ... loses precision](cast-lose-precision.md)
