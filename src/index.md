@@ -1,4 +1,4 @@
-﻿# 信息显示
+# 信息显示
 * [打印gcc预定义的宏信息](print-predefined-macros.md)
 * [打印gcc执行的子命令](print-commands-only.md)
 * [打印优化级别的对应选项](print-level-options.md)
@@ -32,4 +32,5 @@
 * [保存临时文件](save-temps.md)
 * [打开警告信息](turn-on-warnings.md)
 * [指定语言类型](specify-language.md)
+* [改变结构体成员的字节对齐](pack-struct.md)
 
