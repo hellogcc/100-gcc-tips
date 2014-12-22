@@ -15,6 +15,9 @@
 * [把选项传给汇编器](pass-options-to-assembler.md)
 * [生成有详细信息的汇编文件](verbose-asm.md)
 
+# 调试
+* [利用Address Sanitizer工具检查内存访问错误](address-sanitizer.md)
+
 # 连接
 * [把选项传给连接器](pass-options-to-linker.md)
 * [设置动态连接器](set-dynamic-linker.md)
