@@ -17,6 +17,7 @@
 
 # 调试
 * [利用Address Sanitizer工具检查内存访问错误](address-sanitizer.md)
+* [利用Thread Sanitizer工具检查数据竞争的问题](thread-sanitizer.md)
 
 # 连接
 * [把选项传给连接器](pass-options-to-linker.md)
