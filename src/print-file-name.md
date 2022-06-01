@@ -9,7 +9,7 @@
 
 如上所示，使用`-print-file-name`选项就可以显示出gcc究竟会连接哪个libc库了。
 
-详情参见[gcc手册](https://gcc.gnu.org/onlinedocs/gcc/Debugging-Options.html#index-print-file-name-777)
+详情参见[gcc手册](https://gcc.gnu.org/onlinedocs/gcc/Developer-Options.html#index-print-file-name)
 
 ## 贡献者
 
